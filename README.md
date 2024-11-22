@@ -1,6 +1,13 @@
 # News-Classification-System
 A classification system for BBC news articles using GloVe and Word2Vec-LSTM models
 
+File details:
+
+1. Report_BBC_News_Classification.pdf - Report
+2. BBC_News_Classification.ipynb - Main code file to be run on Google Colab
+3. BBC_News_Classification.pdf - Run codes with outputs in pdf format
+   
+
 Colab link:  https://colab.research.google.com/drive/1imns3QRVqXaIn2rHw07qDilns00fJxmC?usp=sharing
 
 Dataset links: 
